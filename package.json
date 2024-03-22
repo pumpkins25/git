@@ -1,0 +1,30 @@
+{
+  "name": "windows",
+  "version": "1.0.0",
+  "description": "too tired to care",
+  "main": "index.js",
+  "scripts": {
+    "test": "scripts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pumpkins25/git.git"
+  },
+  "keywords": [
+    "cheesefries",
+    "snowflakes",
+    "redhead",
+    "skittles"
+  ],
+  "author": "sarah",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pumpkins25/git/issues",
+	"email": "mccsaraha@gmail.com"
+  },
+  "homepage": "https://github.com/pumpkins25/git#readme",
+  "dependencies": {
+    "write-json-file": "^5.0.0"
+	"private": true
+  }
+}
